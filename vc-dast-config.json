@@ -10,7 +10,6 @@
       "description": "string"
     }
   ], 
-  #test
   "scans": [
     {
       "scan_config_request": {
