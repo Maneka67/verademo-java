@@ -3,7 +3,7 @@
   "scan_setting": {
     "max_browsers": 10
   },
-  #test
+  #testing
   "scanner_variables": [
     {
       "reference_key": "string",
